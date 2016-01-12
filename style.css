@@ -1,3 +1,16 @@
 body {
     font-family: Helvetica;
 }
+h2 {
+    font-style:italic;
+    color:blue;
+    }
+h3 
+p {
+    font-style:italic;
+    color:green;
+}
+k {
+    font-style:inherit;
+    color:orange;
+}
